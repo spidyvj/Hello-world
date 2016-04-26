@@ -1,2 +1,2 @@
 # Hello-world
-My first repository
+My first check-in with Git
